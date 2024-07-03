@@ -36,6 +36,10 @@ enableEmoji = true
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
+[services]
+  [services.disqus]
+    shortname = 'mindspark-2'
+
 [related]
   threshold = 0
   toLower = false
@@ -65,3 +69,6 @@ enableEmoji = true
       name = 'fragmentrefs'
       type = 'fragments'
       weight = 10
+
+
+

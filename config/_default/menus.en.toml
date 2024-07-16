@@ -16,9 +16,10 @@
   weight = 10
 
 [[main]]
+  pre = "Amazon"
   name = "Amazon Store"
-  pageRef = "amazon"
-  weight = 10
+  url = "https://www.amazon.in/stores/author/B08KGNCHW3"
+  weight = 30
 
 #[[main]]
 #  name = "example sub-menu 1"

@@ -4,5 +4,5 @@ draft : false
 title : "Store🛒"
 showCards : true
 groupByYear : false
-cardView : false
+cardView : true
 ---
